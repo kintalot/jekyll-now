@@ -1,15 +1,14 @@
 ---
 layout:page
 
-title:My Reviews
+title:My resume
 
-permalike: /Reviews/
+permalike: /resume/
 ---
 
-# Reviews
+# Experience
 
--รวบรวมรีวิวเกมออนไลน์ต่างๆ
+-
 
--รีวิวเกมสืมือถือ
-
--รีวิวเกมส์Pc
+# Education
+-Bs
