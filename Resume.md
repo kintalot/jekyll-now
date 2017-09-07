@@ -8,7 +8,7 @@ permalike: /resume/
 
 # Experience
 
--
+-กิจกรรมยามว่าง
 
 # Education
 -Bs
