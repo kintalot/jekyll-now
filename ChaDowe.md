@@ -3,7 +3,7 @@ layout:page
 
 title:My Reviews
 
-permalike:/Reviews/
+permalike: /Reviews/
 ---
 
 # Reviews
