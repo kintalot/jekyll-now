@@ -1,10 +1,13 @@
 ---
 layout: page
-title: About
+title: About takdanai
 permalink: /about/
 ---
 
-Some information about you!
+takdanai areerop
+age:22
+date:21/06/2538
+
 
 ### More Information
 
