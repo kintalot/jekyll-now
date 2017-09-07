@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 takdanai areerop
-age:22
-date:21/06/2538
+Age:22
+Date:21/06/2538
 
 
 ### More Information
